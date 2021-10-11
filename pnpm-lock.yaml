@@ -1,0 +1,47 @@
+lockfileVersion: 5.3
+
+specifiers:
+  workbox-core: ^6.3.0
+  workbox-navigation-preload: ^6.3.0
+  workbox-precaching: ^6.3.0
+  workbox-routing: ^6.3.0
+  workbox-strategies: ^6.3.0
+
+dependencies:
+  workbox-core: 6.3.0
+  workbox-navigation-preload: 6.3.0
+  workbox-precaching: 6.3.0
+  workbox-routing: 6.3.0
+  workbox-strategies: 6.3.0
+
+packages:
+
+  /workbox-core/6.3.0:
+    resolution: {integrity: sha512-SufToEV3SOLwwz3j+P4pgkfpzLRUlR17sX3p/LrMHP/brYKvJQqjTwtSvaCkkAX0RPHX2TFHmN8xhPP1bpmomg==}
+    dev: false
+
+  /workbox-navigation-preload/6.3.0:
+    resolution: {integrity: sha512-D7bomh9SCn1u6n32FqAWfyHe2dkK6mWbwcTsoeBnFSD0p8Gr9Zq1Mpt/DitEfGIQHck90Zd024xcTFLkjczS/Q==}
+    dependencies:
+      workbox-core: 6.3.0
+    dev: false
+
+  /workbox-precaching/6.3.0:
+    resolution: {integrity: sha512-bND3rUxiuzFmDfeKywdvOqK0LQ5LLbOPk0eX22PlMQNOOduHRxzglMpgHo/MR6h+8cPJ3GpxT8hZ895/7bHMqQ==}
+    dependencies:
+      workbox-core: 6.3.0
+      workbox-routing: 6.3.0
+      workbox-strategies: 6.3.0
+    dev: false
+
+  /workbox-routing/6.3.0:
+    resolution: {integrity: sha512-asajX5UPkaoU4PB9pEpxKWKkcpA+KJQUEeYU6NlK0rXTCpdWQ6iieMRDoBTZBjTzUdL3j3s1Zo2qCOSvtXSYGg==}
+    dependencies:
+      workbox-core: 6.3.0
+    dev: false
+
+  /workbox-strategies/6.3.0:
+    resolution: {integrity: sha512-SYZt40y+Iu5nA+UEPQOrAuAMMNTxtUBPLCIaMMb4lcADpBYrNP1CD+/s2QsrxzS651a8hfi06REKt+uTp1tqfw==}
+    dependencies:
+      workbox-core: 6.3.0
+    dev: false

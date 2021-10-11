@@ -1,0 +1,4 @@
+{
+  "name": "testdata",
+  "main": "lib-without-index/main.js"
+}

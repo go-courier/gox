@@ -1,0 +1,11 @@
+{
+  "name": "dependencies",
+  "private": "true",
+  "dependencies": {
+    "workbox-core": "^6.3.0",
+    "workbox-navigation-preload": "^6.3.0",
+    "workbox-precaching": "^6.3.0",
+    "workbox-routing": "^6.3.0",
+    "workbox-strategies": "^6.3.0"
+  }
+}

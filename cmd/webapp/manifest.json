@@ -1,0 +1,9 @@
+{
+  "name": "webapp",
+  "short_name": "webapp",
+  "description": "webapp",
+  "start_url": "/",
+  "display": "fullscreen",
+  "theme_color": "#FAF3EB",
+  "background_color": "#FAF3EB"
+}
