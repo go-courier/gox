@@ -8,7 +8,7 @@ require (
 	github.com/evanw/esbuild v0.13.12
 	github.com/go-logr/logr v1.2.0
 	github.com/go-logr/stdr v1.2.0
-	github.com/onsi/gomega v1.16.0
+	github.com/onsi/gomega v1.17.0
 	github.com/pkg/errors v0.9.1
 	golang.org/x/net v0.0.0-20210916014120-12bc252f5db8
 	mvdan.cc/sh/v3 v3.4.0
